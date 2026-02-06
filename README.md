@@ -88,12 +88,12 @@
   <br><br>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekmtri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateekmtri&theme=tokyonight" alt="Profile Details" />
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=prateekmtri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmtri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateekmtri&theme=tokyonight" alt="Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prateekmtri&theme=tokyonight" alt="Productive Time" />
   </p>
 </div>
 
