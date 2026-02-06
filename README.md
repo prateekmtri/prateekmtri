@@ -87,13 +87,13 @@
   
   <br><br>
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=prateekmtri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="streak graph" />
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekmtri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  </p>
   
-  <br><br>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prateekmtri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="160" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmtri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="160" alt="languages graph" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=prateekmtri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmtri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Languages" />
   </p>
 </div>
 
