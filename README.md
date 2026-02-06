@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Prateek%20Mani%20Tripathi&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%26%20AI%20Engineer&descAlign=50&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Prateek%20Mani%20Tripathi&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20and%20AI%20Engineer&descAlign=50&descAlignY=55" width="100%"/>
 </div>
 
 <p align="center">
 <a href="https://new-advance-portfolio.vercel.app/" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&color=38BDF8&lines=Building+Scalable+MERN+Applications;Crafting+AI-Powered+RAG+Systems;Architecting+Cloud-Native+Solutions+on+AWS;Exploring+Generative+AI+%26+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&color=38BDF8&lines=Building+Scalable+MERN+Applications;Crafting+AI-Powered+RAG+Systems;Architecting+Cloud-Native+Solutions+on+AWS;Exploring+Generative+AI+and+LLMs" alt="Typing SVG" />
 </a>
 </p>
 
