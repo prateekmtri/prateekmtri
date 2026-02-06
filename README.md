@@ -8,6 +8,14 @@
 </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/prateekmtri">
+    <img src="https://github-profile-trophy.vercel.app/?username=prateekmtri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://new-advance-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -75,15 +83,19 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekmtri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/prateekmtri/prateekmtri/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekmtri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmtri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="150" alt="languages graph" />
-</div>
 
-<p align="center">
-  <img src="https://github.com/prateekmtri/prateekmtri/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</p>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=prateekmtri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="streak graph" />
+  
+  <br><br>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=prateekmtri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmtri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="160" alt="languages graph" />
+  </p>
+</div>
 
 ---
 
@@ -113,6 +125,11 @@
 
 <div align="center">
   <h3>Let's Connect & Build! 🤝</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=prateekmtri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  
   <p>
     <a href="https://linkedin.com/in/prateek-mani-tripathi-51935a259/">
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
