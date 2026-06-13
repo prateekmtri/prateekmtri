@@ -121,12 +121,12 @@
 
   <br><br>
 
-  <!-- WakaTime Coding Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prateekmtri2&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="70%"/>
+  <!-- WakaTime Coding Activity with cache bypass -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prateekmtri2&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=0" alt="WakaTime Stats" width="70%"/>
 
   <br><br>
 
-  <!-- 3D Contribution Graph (Generated via GitHub Action) -->
+  <!-- 3D Contribution Graph -->
   <img src="https://raw.githubusercontent.com/prateekmtri/prateekmtri/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
   <br><br>
