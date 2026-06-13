@@ -63,6 +63,28 @@
 
 ---
 
+<!-- Currently Building Banner -->
+<h2 align="center">🔨 Currently Building</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🎈_Baloon_App-React_Native_%7C_Expo-38BDF8?style=for-the-badge" />
+        <br><br>
+        <b>Baloon</b> — A social mobile app built with React Native & Expo. Working on new UI, Events & Care screens, and AI character features.
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🤖_Agentic_AI-LangChain_%7C_LLMs-412991?style=for-the-badge" />
+        <br><br>
+        <b>Agentic AI Workflows</b> — Building enterprise-grade AI pipelines with LangChain, RAG systems, and multi-agent orchestration.
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h2 align="center">🚀 Technical Arsenal</h2>
 
 <div align="center">
@@ -86,8 +108,27 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
+
+  <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/prateekmtri/prateekmtri/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-  
+
+  <br><br>
+
+  <!-- GitHub Stats Card + Streak Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekmtri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=prateekmtri&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" width="48%"/>
+
+  <br><br>
+
+  <!-- WakaTime Coding Activity -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prateekmtri2&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="70%"/>
+
+  <br><br>
+
+  <!-- 3D Contribution Graph (Generated via GitHub Action) -->
+  <img src="https://raw.githubusercontent.com/prateekmtri/prateekmtri/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
   <br><br>
 
   <p>
@@ -98,6 +139,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateekmtri&theme=tokyonight" alt="Languages" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prateekmtri&theme=tokyonight" alt="Productive Time" />
   </p>
+
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=prateekmtri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
@@ -130,12 +175,10 @@
   <h3>Let's Connect & Build! 🤝</h3>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=prateekmtri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
-  
-  <p>
     <a href="https://linkedin.com/in/prateek-mani-tripathi-51935a259/">
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
     </a>
   </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
