@@ -23,7 +23,6 @@
 prateek = {
     "name"       : "Prateek Mani Tripathi",
     "education"  : "B.Tech CSE @ Veer Madho Singh Bhandari UTU (2026)",
-    "college"    : "Roorkee College of Engineering",
     "location"   : "Bangalore, India 🇮🇳",
     "current"    : "Software Developer Intern @ Baloon Pvt Ltd",
     "focus"      : ["AI Engineering", "RAG Systems", "LLM Agents"],
